@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VGBrowser</string>
+    <string name="filter_button">Aplicar filtros</string>
+    <string name="search_bar">Buscar...</string>
+    <string name="search_placeholder">Buscar por nombre</string>
+    <string name="loading_text">Cargando</string>
+    <string name="release_date">Publicado en</string>
+</resources>
